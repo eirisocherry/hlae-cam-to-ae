@@ -2,6 +2,12 @@
 HLAE Camera Importer for After Effects  
 Tutorial: https://www.youtube.com/watch?v=78Y_Y-i5h2c  
 
+### Differences from the [official script](https://github.com/xNWP/HLAE-CamIO-To-AE/releases):  
+- Automatically sets hold keyframes  
+- No errors when running the script through window tab  
+- Adds null that located in the center of cinematic  
+- More alerts that help to prevent mistakes  
+
 ## Support
 Author: https://www.youtube.com/@shy_rikki  
 My support discord server: https://discord.gg/AAJxThhbBf  
