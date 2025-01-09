@@ -6,7 +6,7 @@ Tutorial: https://www.youtube.com/watch?v=78Y_Y-i5h2c
 - Automatically sets hold keyframes  
 - No errors when running the script through window tab  
 - Adds null that located in the center of cinematic  
-- More alerts that help to prevent mistakes  
+- More alerts that help to avoid mistakes  
 
 ## Support
 Author: https://www.youtube.com/@shy_rikki  
